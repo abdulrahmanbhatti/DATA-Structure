@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int queue[100];
+int front =-1;
+int rear=-1;
+int maxSize=5;
+void QueueInsert(){
+	if ( rear ==maxSize\
+)\-/4
+}
+int main (){
+	
+}
